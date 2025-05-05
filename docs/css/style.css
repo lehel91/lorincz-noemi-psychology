@@ -20,6 +20,7 @@ body {
 
 .container {
   max-width: 650px;
+  width: calc(100% - 30px);
   padding: 3rem;
   background: linear-gradient(135deg, rgba(240, 250, 255, 0.95), rgba(255, 255, 255, 0.9));
   border-radius: 20px;
