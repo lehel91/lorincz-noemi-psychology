@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://lorincznoemi.hu/sitemap.xml
+Sitemap: https://www.lorincznoemi.hu/sitemap.xml
