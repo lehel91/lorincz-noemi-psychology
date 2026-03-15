@@ -1,0 +1,99 @@
+{
+  "meta": {
+    "title": "Lőrincz Noémi – tanácsadó szakpszichológus",
+    "description": "Lőrincz Noémi tanácsadó szakpszichológus – pár- és családterápia, konzultáció gyerekeknek, fiataloknak és felnőtteknek Budapesten és online."
+  },
+  "contact": {
+    "phone": "+36307135875",
+    "phoneDisplay": "+36 30 713 5875",
+    "email": "nlorincz26@gmail.com"
+  },
+  "hero": {
+    "badge": "tanácsadó szakpszichológus",
+    "name": "Lőrincz Noémi",
+    "tagline": "Biztonságos, elfogadó tér az önismereti munkához.",
+    "intro": "Tanácsadó szakpszichológusként gyerekekkel, fiatalokkal és felnőttekkel dolgozom, pár- és családterápia szakirányon. Empatikus, elfogadó légkörben, értő figyelemmel kísérem a hozzám fordulókat; a nehézségek mögötti minták és erőforrások feltárásában.",
+    "ctaBooking": "Időpontot szeretnék",
+    "ctaAbout": "Rólam"
+  },
+  "rolam": {
+    "label": "rólam",
+    "title": "Szakmai háttér és szemlélet",
+    "tanulmanyok": {
+      "title": "Tanulmányok",
+      "body": "A kolozsvári Babes–Bolyai Egyetemen iskolapszichológusként végeztem, Budapesten tanácsadó szakpszichológusi diplomát szereztem pár- és családterápia szakirányon."
+    },
+    "tapasztalat": {
+      "title": "Szakmai tapasztalat",
+      "body": "Öt évig dolgoztam iskolapszichológusként Budapesten: általános és gimnáziumi tanulókkal, szüleikkel és pedagógusaikkal, egyéni és csoportos foglalkozásokban."
+    },
+    "szemlelet": {
+      "title": "Szemléletem",
+      "body": "Munkám alapját képezi a rendszerszemlélet: hiszem, hogy a nehézségeket érdemes az egyént körülvevő kapcsolatrendszereken keresztül vizsgálni. Problémafókusz helyett az erőforrások kiaknázására helyezem a hangsúlyt, empatikus és elfogadó légkörben, értő figyelemmel kísérem a hozzám fordulókat önismereti munkájuk során."
+    }
+  },
+  "miben": {
+    "label": "miben tudok segíteni",
+    "title": "Kinek és miben tudok segíteni?",
+    "intro": "Gyerekeknek (kb. 7–14 éves korig), serdülőknek és diákoknak (kb. 14–18 éves korig), valamint szülőknek és felnőtteknek. Az első találkozás alkalmával közösen feltérképezzük a nehézségeket és a célokat; nyugodt, ítélkezésmentes térben dolgozunk együtt.",
+    "gyerekek": {
+      "title": "Gyerekek esetében",
+      "items": [
+        "Iskolai nehézségek: beilleszkedés, teljesítményromlás, szorongás, szülőktől való elválás nehézségei",
+        "Pályaválasztási kérdések, tanulási nehézségek",
+        "Önértékelési nehézségek",
+        "Tanulásmódszertani kérdések"
+      ]
+    },
+    "szulok": {
+      "title": "Szülők esetében",
+      "items": [
+        "Nevelési tanácsadás",
+        "Pszichoedukáció, krízistanácsadás"
+      ]
+    },
+    "diakok": {
+      "title": "Diákok, serdülők esetében",
+      "items": [
+        "Önismereti munka",
+        "Pályaválasztási tanácsadás",
+        "Felnőttekkel való konfliktusok kezelése",
+        "Tanulásmódszertan"
+      ]
+    }
+  },
+  "hogyan": {
+    "label": "hogyan zajlik",
+    "title": "Egyszerű, megnyugtató folyamat",
+    "intro": "Az első találkozás alkalmával közösen feltérképezzük a nehézségeket és a célokat. Egyéni, pár- vagy családkonzultáció formájában dolgozom, a kliens élethelyzetéhez és igényeihez igazodva.",
+    "step1": "Kapcsolatfelvétel e-mailben vagy telefonon",
+    "step2": "Első beszélgetés, ismerkedés a helyzettel",
+    "step3": "Közös munka biztonságos, elfogadó keretben"
+  },
+  "rendeles": {
+    "label": "rendelés",
+    "title": "Helyszín, időpont, kapcsolat",
+    "helyszinLabel": "Helyszín",
+    "helyszinText": "1183 Budapest, Thököly út 9/A\n6. lépcsőház",
+    "idopontLabel": "Rendelési idő",
+    "idopontText": "Kedd\nCsütörtök",
+    "onlineLabel": "Online konzultáció",
+    "onlineText": "Online konzultációs lehetőség **elérhető**.",
+    "dijakLabel": "Díjak",
+    "dijakText": "Az aktuális díjakról kérem, érdeklődjön telefonon vagy e-mailben.",
+    "leiras": "Időpontot telefonon vagy e-mailben tud kérni. Lehetőség szerint röviden írja le, milyen életkorú gyermekről / felnőttről, milyen nehézségről van szó.",
+    "ctaPhone": "Időpontkérés telefonon",
+    "ctaEmail": "Kapcsolat e-mailben"
+  },
+  "footer": {
+    "copyright": "Lőrincz Noémi – tanácsadó szakpszichológus"
+  },
+  "modal": {
+    "title": "Időpontkérés – kapcsolat",
+    "intro": "Írjon e-mailben vagy hívjon telefonon; szívesen egyeztetünk időpontot.",
+    "phoneLabel": "Telefon",
+    "emailLabel": "E-mail",
+    "close": "Bezárás",
+    "closeAria": "Bezárás"
+  }
+}
