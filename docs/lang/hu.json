@@ -1,7 +1,7 @@
 {
   "meta": {
     "title": "Lőrincz Noémi – tanácsadó szakpszichológus",
-    "description": "Lőrincz Noémi tanácsadó szakpszichológus – pár- és családterápia, konzultáció gyerekeknek, fiataloknak és felnőtteknek Budapesten és online."
+    "description": "Tanácsadó szakpszichológus Budapesten – önismereti út kísérése, biztonságos és elfogadó légkörben. Gyerekeknek, szülőknek, serdülőknek; online és személyesen."
   },
   "contact": {
     "phone": "+36307135875",
@@ -11,64 +11,73 @@
   "hero": {
     "badge": "tanácsadó szakpszichológus",
     "name": "Lőrincz Noémi",
-    "tagline": "Biztonságos, elfogadó tér az önismereti munkához.",
-    "intro": "Tanácsadó szakpszichológusként gyerekekkel, fiatalokkal és felnőttekkel dolgozom, pár- és családterápia szakirányon. Empatikus, elfogadó légkörben, értő figyelemmel kísérem a hozzám fordulókat; a nehézségek mögötti minták és erőforrások feltárásában.",
+    "tagline": "Biztonságos, elfogadó és ítélkezésmentes légkör az önismereti munkához.",
+    "intro": "Tanácsadó szakpszichológusként célom, hogy segítőként kísérjem klienseimet azon az önismereti úton, amelyen elindultak. Szeretném őket támogatni abban, hogy jobban megértsék önmagukat, hatékonyabban tudjanak megküzdeni az eléjük gördülő nehézségekkel, és megtalálják a számukra megfelelő belső egyensúlyt.",
     "ctaBooking": "Időpontot szeretnék",
     "ctaAbout": "Rólam"
   },
   "rolam": {
     "label": "rólam",
     "title": "Szakmai háttér és szemlélet",
+    "intro": [
+      "Hiszem, hogy minden ember rendelkezik olyan belső erőforrásokkal, amelyekre támaszkodva képes változni, fejlődni és új megoldásokat találni. A közös munka során ehhez a folyamathoz kívánok szakmai jelenléttel és támogatással hozzájárulni.",
+      "Mivel minden ember egyedi, pszichológusként személyiségközpontú szemléletben dolgozom, és a közös munka során mindig az adott személyhez és élethelyzethez leginkább illeszkedő fejlődési lehetőségeket keresem. Ebben a folyamatban a szimbólum- és művészetterápiás eszköztár, a mindfulness szemlélet, a relaxációs technikák, valamint a családterápiás módszertan eszközei nyújtanak segítséget.",
+      "Munkám alapját a rendszerszemlélet képezi, emellett a transzgenerációs elméletek is fontos szemléleti keretet adnak számomra, különösen az egyéni nehézségek és családi mintázatok összefüggéseinek megértésében."
+    ],
     "tanulmanyok": {
       "title": "Tanulmányok",
-      "body": "A kolozsvári Babes–Bolyai Egyetemen iskolapszichológusként végeztem, Budapesten tanácsadó szakpszichológusi diplomát szereztem pár- és családterápia szakirányon."
+      "body": "Tanulmányi utamat a kolozsvári Babeș–Bolyai Tudományegyetemen kezdtem, ahol iskolapszichológia szakirányon végeztem. Ezt követően Budapesten szereztem meg tanácsadó szakpszichológusi diplomámat, pár- és családterápia szakirányon."
     },
     "tapasztalat": {
-      "title": "Szakmai tapasztalat",
-      "body": "Öt évig dolgoztam iskolapszichológusként Budapesten: általános és gimnáziumi tanulókkal, szüleikkel és pedagógusaikkal, egyéni és csoportos foglalkozásokban."
+      "title": "Iskolapszichológusi tapasztalat",
+      "body": "Szakmai pályámat Budapesten kezdtem meg iskolapszichológusként, ahol öt éven keresztül dolgoztam általános iskolás és gimnazista tanulókkal, valamint szüleikkel és pedagógusaikkal. Ez az időszak meghatározó tapasztalatot jelentett számomra a serdülőkor sajátosságainak, az iskolai közeg dinamikájának, valamint a családi és intézményi rendszerek összefüggéseinek megértésében."
     },
-    "szemlelet": {
-      "title": "Szemléletem",
-      "body": "Munkám alapját képezi a rendszerszemlélet: hiszem, hogy a nehézségeket érdemes az egyént körülvevő kapcsolatrendszereken keresztül vizsgálni. Problémafókusz helyett az erőforrások kiaknázására helyezem a hangsúlyt, empatikus és elfogadó légkörben, értő figyelemmel kísérem a hozzám fordulókat önismereti munkájuk során."
+    "munkam": {
+      "title": "Egyéni és csoportos munka",
+      "body": "Munkám során egyéni és csoportos formában is foglalkoztam gyermekekkel, többek között konfliktuskezelés, szociális készségfejlesztés, krízistanácsadás, szorongásoldás és pályaorientáció témaköreiben. Szülők és pedagógusok számára egyaránt tartottam egyéni és csoportos konzultációkat nevelési kérdésekben, pszichoedukációs folyamatokban, valamint krízishelyzetek kezelésében."
+    },
+    "szemelyes": {
+      "title": "Személyes",
+      "body": "Jelenleg egy négyéves kislány édesanyjaként a kapcsolódás, a türelem és az érzelmi jelenlét kérdései személyes szinten is hangsúlyossá váltak számomra. Az anyaság tapasztalata tovább mélyítette azt a szemléletemet, amelyben a bizalmi kapcsolat, az empátia és az értő figyelem kiemelt szerepet kap."
     }
   },
   "miben": {
-    "label": "miben tudok segíteni",
-    "title": "Kinek és miben tudok segíteni?",
-    "intro": "Gyerekeknek (kb. 7–14 éves korig), serdülőknek és diákoknak (kb. 14–18 éves korig), valamint szülőknek és felnőtteknek. Az első találkozás alkalmával közösen feltérképezzük a nehézségeket és a célokat; nyugodt, ítélkezésmentes térben dolgozunk együtt.",
-    "gyerekek": {
-      "title": "Gyerekek esetében",
-      "items": [
-        "Iskolai nehézségek: beilleszkedés, teljesítményromlás, szorongás, szülőktől való elválás nehézségei",
-        "Pályaválasztási kérdések, tanulási nehézségek",
-        "Önértékelési nehézségek",
-        "Tanulásmódszertani kérdések"
-      ]
-    },
-    "szulok": {
-      "title": "Szülők esetében",
+    "label": "közös munka",
+    "title": "Miben tudok segíteni?",
+    "felnotttek": {
+      "title": "Felnőttek",
       "items": [
         "Nevelési tanácsadás",
-        "Pszichoedukáció, krízistanácsadás"
+        "Önismeret",
+        "Stresszkezelés",
+        "Családi konfliktusok kezelése, megoldása",
+        "Életvezetéssel kapcsolatos nehézségek"
       ]
     },
-    "diakok": {
-      "title": "Diákok, serdülők esetében",
+    "kamaszok": {
+      "title": "Kamaszok",
       "items": [
-        "Önismereti munka",
-        "Pályaválasztási tanácsadás",
-        "Felnőttekkel való konfliktusok kezelése",
-        "Tanulásmódszertan"
+        "Kamaszkori nehézségek",
+        "Teljesítménnyel összefüggő nehézségek",
+        "Kortárs kapcsolatok nehézségei",
+        "Szülő és gyermek közötti konfliktusok"
       ]
     }
   },
   "hogyan": {
     "label": "hogyan zajlik",
-    "title": "Egyszerű, megnyugtató folyamat",
-    "intro": "Az első találkozás alkalmával közösen feltérképezzük a nehézségeket és a célokat. Egyéni, pár- vagy családkonzultáció formájában dolgozom, a kliens élethelyzetéhez és igényeihez igazodva.",
+    "title": "Pszichológiai tanácsadás",
+    "intro": "Az első találkozás alkalmával közösen feltérképezzük a nehézségeket és a célokat.\n18 éven aluli kliensek esetében a közös munkát megelőzi egy szülőkonzultáció. Ezt követi három alkalom a serdülővel, amely során közösen eldöntjük, hogy én vagyok-e a megfelelő szakember az adott problémára, és milyen keretek között tudunk együtt dolgozni.\nMinden 18 éven aluli kliens esetében a közös munka feltétele a beleegyező nyilatkozat, mindkét szülő részéről.\nEgy konzultáció időtartama 50 perc.",
     "step1": "Kapcsolatfelvétel e-mailben vagy telefonon",
     "step2": "Első beszélgetés, ismerkedés a helyzettel",
-    "step3": "Közös munka biztonságos, elfogadó keretben"
+    "step2desc": "Az első találkozás alkalmával közösen feltérképezzük a nehézségeket és a célokat.",
+    "step3": "18 éven aluli kliensek esetén szülőkonzultáció",
+    "step3desc": [
+      "18 éven aluli kliensek esetében a közös munkát megelőzi egy szülőkonzultáció. Ezt követi három alkalom a serdülővel, amely során közösen eldöntjük, hogy én vagyok-e a megfelelő szakember az adott problémára, és milyen keretek között tudunk együtt dolgozni.",
+      "Minden 18 éven aluli kliens esetében a közös munka feltétele a beleegyező nyilatkozat, mindkét szülő részéről."
+    ],
+    "step4": "Közös munka biztonságos, elfogadó keretben",
+    "infoItem1": "Egy konzultáció időtartama 50 perc."
   },
   "rendeles": {
     "label": "rendelés",
@@ -89,8 +98,7 @@
     "copyright": "Lőrincz Noémi – tanácsadó szakpszichológus"
   },
   "modal": {
-    "title": "Időpontkérés – kapcsolat",
-    "intro": "Írjon e-mailben vagy hívjon telefonon; szívesen egyeztetünk időpontot.",
+    "title": "Kapcsolat",
     "phoneLabel": "Telefon",
     "emailLabel": "E-mail",
     "close": "Bezárás",
