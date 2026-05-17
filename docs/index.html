@@ -80,7 +80,7 @@
           Időpontot szeretnék
         </button>
         <a href="#rolam"
-          class="rounded-2xl border border-slate-300 bg-white/80 px-6 py-3.5 text-base font-medium text-slate-700 backdrop-blur transition hover:bg-white"
+          class="hidden sm:inline-flex rounded-2xl border border-slate-300 bg-white/80 px-6 py-3.5 text-base font-medium text-slate-700 backdrop-blur transition hover:bg-white"
           data-i18n="hero.ctaAbout">
           Rólam
         </a>
@@ -311,8 +311,8 @@
 
   <!-- Időpontkérés / Kapcsolat popup -->
   <div id="contact-modal" role="dialog" aria-modal="true" aria-labelledby="contact-modal-title"
-    class="fixed inset-0 z-50 hidden items-center justify-center p-4" tabindex="-1">
-    <div class="absolute inset-0 bg-slate-900/50 backdrop-blur-sm" data-close-contact-modal id="i18n-modal-overlay"
+    class="fixed inset-0 z-50 flex items-center justify-center p-4 opacity-0 pointer-events-none transition-opacity duration-200 backdrop-blur-sm" tabindex="-1">
+    <div class="absolute inset-0 bg-slate-900/50" data-close-contact-modal id="i18n-modal-overlay"
       aria-label="Bezárás"></div>
     <div
       class="relative w-full max-w-md min-w-0 max-h-[85vh] overflow-y-auto rounded-[2rem] border border-white/80 bg-white p-5 shadow-2xl md:p-8">
@@ -443,15 +443,13 @@
       var closeButtons = document.querySelectorAll('[data-close-contact-modal]');
 
       function openModal() {
-        modal.classList.remove('hidden');
-        modal.classList.add('flex');
+        modal.classList.remove('opacity-0', 'pointer-events-none');
         document.body.style.overflow = 'hidden';
         modal.focus();
       }
 
       function closeModal() {
-        modal.classList.add('hidden');
-        modal.classList.remove('flex');
+        modal.classList.add('opacity-0', 'pointer-events-none');
         document.body.style.overflow = '';
       }
 
