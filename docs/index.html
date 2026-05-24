@@ -7,12 +7,78 @@
   <title id="i18n-meta-title">Lőrincz Noémi – tanácsadó szakpszichológus</title>
   <meta id="i18n-meta-description" name="description"
     content="Lőrincz Noémi tanácsadó szakpszichológus – pár- és családterápia, konzultáció gyerekeknek, fiataloknak és felnőtteknek Budapesten és online." />
+
+  <link rel="canonical" href="https://www.lorincznoemi.hu/" />
+
+  <!-- Open Graph -->
+  <meta property="og:type" content="website" />
+  <meta property="og:url" content="https://www.lorincznoemi.hu/" />
+  <meta property="og:locale" content="hu_HU" />
+  <meta property="og:site_name" content="Lőrincz Noémi" />
+  <meta id="i18n-og-title" property="og:title" content="Lőrincz Noémi – tanácsadó szakpszichológus" />
+  <meta id="i18n-og-description" property="og:description"
+    content="Tanácsadó szakpszichológus Budapesten – önismereti út kísérése, biztonságos és elfogadó légkörben. Gyerekeknek, szülőknek, serdülőknek; online és személyesen." />
+  <meta property="og:image" content="https://www.lorincznoemi.hu/images/onarckep.jpg" />
+  <meta property="og:image:alt" content="Lőrincz Noémi tanácsadó szakpszichológus" />
+
+  <!-- Structured data -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": ["LocalBusiness", "ProfessionalService"],
+    "name": "Lőrincz Noémi – tanácsadó szakpszichológus",
+    "description": "Tanácsadó szakpszichológus Budapesten – önismereti út kísérése, biztonságos és elfogadó légkörben. Gyerekeknek, szülőknek, serdülőknek; online és személyesen.",
+    "url": "https://www.lorincznoemi.hu/",
+    "telephone": "+36307135875",
+    "email": "nlorincz26@gmail.com",
+    "image": "https://www.lorincznoemi.hu/images/onarckep.jpg",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Thököly út 9/A, 6. lépcsőház",
+      "addressLocality": "Budapest",
+      "postalCode": "1183",
+      "addressCountry": "HU"
+    },
+    "areaServed": [
+      { "@type": "City", "name": "Budapest" },
+      { "@type": "Country", "name": "Magyarország" }
+    ],
+    "openingHoursSpecification": [
+      {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": ["Tuesday", "Thursday"]
+      }
+    ],
+    "hasOfferCatalog": {
+      "@type": "OfferCatalog",
+      "name": "Pszichológiai tanácsadás",
+      "itemListElement": [
+        { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "Egyéni pszichológiai konzultáció" } },
+        { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "Nevelési tanácsadás" } },
+        { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "Kamaszkorú fiatalokkal való munka" } },
+        { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "Online konzultáció" } }
+      ]
+    }
+  }
+  </script>
+
   <script src="https://cdn.tailwindcss.com"></script>
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
   <link
     href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&family=Roboto:wght@300;400;500;700&display=swap"
     rel="stylesheet" />
+
+  <!-- Google tag (gtag.js) START -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-7HPLS10N1P"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag() { dataLayer.push(arguments); }
+    gtag('js', new Date());
+
+    gtag('config', 'G-7HPLS10N1P');
+  </script>
+  <!-- Google tag (gtag.js) END -->
   <style>
     html {
       scroll-behavior: smooth;
@@ -62,7 +128,7 @@
         <div
           class="relative overflow-hidden rounded-[2rem] border border-white/70 bg-white/80 p-4 shadow-2xl shadow-slate-300/40 backdrop-blur">
           <div class="aspect-[4/5] overflow-hidden rounded-[1.5rem]">
-            <img src="images/onarckep.jpg" alt="" id="i18n-hero-img-alt"
+            <img src="images/onarckep.jpg" alt="Lőrincz Noémi tanácsadó szakpszichológus" id="i18n-hero-img-alt"
               class="h-full w-full object-cover object-top" />
           </div>
         </div>
@@ -311,9 +377,10 @@
 
   <!-- Időpontkérés / Kapcsolat popup -->
   <div id="contact-modal" role="dialog" aria-modal="true" aria-labelledby="contact-modal-title"
-    class="fixed inset-0 z-50 flex items-center justify-center p-4 opacity-0 pointer-events-none transition-opacity duration-200 backdrop-blur-sm" tabindex="-1">
-    <div class="absolute inset-0 bg-slate-900/50" data-close-contact-modal id="i18n-modal-overlay"
-      aria-label="Bezárás"></div>
+    class="fixed inset-0 z-50 flex items-center justify-center p-4 opacity-0 pointer-events-none transition-opacity duration-200 backdrop-blur-sm"
+    tabindex="-1">
+    <div class="absolute inset-0 bg-slate-900/50" data-close-contact-modal id="i18n-modal-overlay" aria-label="Bezárás">
+    </div>
     <div
       class="relative w-full max-w-md min-w-0 max-h-[85vh] overflow-y-auto rounded-[2rem] border border-white/80 bg-white p-5 shadow-2xl md:p-8">
       <h2 id="contact-modal-title" class="text-2xl font-semibold text-slate-800" data-i18n="modal.title">Időpontkérés –
@@ -389,6 +456,10 @@
           document.title = lang.meta && lang.meta.title || document.title;
           var metaDesc = document.getElementById('i18n-meta-description');
           if (metaDesc && lang.meta && lang.meta.description) metaDesc.setAttribute('content', lang.meta.description);
+          var ogTitle = document.getElementById('i18n-og-title');
+          if (ogTitle && lang.meta && lang.meta.title) ogTitle.setAttribute('content', lang.meta.title);
+          var ogDesc = document.getElementById('i18n-og-description');
+          if (ogDesc && lang.meta && lang.meta.description) ogDesc.setAttribute('content', lang.meta.description);
           var heroImg = document.getElementById('i18n-hero-img-alt');
           if (heroImg && lang.hero && lang.hero.name) heroImg.alt = lang.hero.name;
           var yearEl = document.getElementById('year');
